@@ -11,15 +11,15 @@
                                     <key>kind</key>
                                     <string>software-package</string>
                                     <key>url</key>
-                                    <string>http://52.9.78.60/JSafe.ipa</string>
+                                    <string>http://192.168.50.201:8888/Shadowrocket_2.2.22.ipa/string>
                                 </dict>
                         </array>
                         <key>metadata</key>
                         <dict>
                             <key>bundle-identifier</key>
-                            <string>edu.missouri.JournoSafety-fang2</string>
+                            <string>com.liguangming.Shadowrocket</string>
                             <key>bundle-version</key>
-                            <string>1.0</string>
+                            <string>2.2.22</string>
                             <key>kind</key>
                             <string>software</string>
                             <key>title</key>
